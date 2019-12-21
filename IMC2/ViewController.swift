@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var ivResultado: UIImageView!
     @IBOutlet weak var viResultado: UIView!
     var imc: Double = 0
+    //test
     
     override func viewDidLoad() {
         super.viewDidLoad()
